@@ -1,0 +1,526 @@
+----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\applypatch-msg.sample23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\commit-msg.sample23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\fsmonitor-watchman.sample23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\post-update.sample23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\pre-applypatch.sample23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\pre-commit.sample23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\pre-merge-commit.sample23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\pre-push.sample23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\pre-rebase.sample23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\pre-receive.sample23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\prepare-commit-msg.sample23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\push-to-checkout.sample23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\update.sample23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\info\exclude23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\logs\refs\heads\main25//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\logs\refs\remotes\origin\HEAD25//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\logs\refs\remotes\origin\main25//02//2024
+
+ ----------
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\logs\refs\remotes\origin23//02//2024
+ 
+ ----------
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\logs\refs\heads23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\logs\refs\remotes23//02//2024
+ 
+ ----------
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\logs\refs23//02//2024
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\logs\HEAD25//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\14\f8b11c2710694b43ff080d1646bc34fea9d22f23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\16\905cdc5974c594bf884f188fbd7f3b1780efeb25//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\3e\a34f46e1418d3da7bd0fd81fabfea1144094ef23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\40\96885a7275843bf8e0e85fbb72ed46971538cc23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\42\34a6f7459e86e67fb04a3d5e7de4b9d74c1a2927//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\42\62e97f915981c262e53200ce53c1257de3356823//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\43\6ff17c69ad1f69c63550605f733b92425e33c923//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\52\4f0963bd1d8c6149eb6f2dc52a5fc50c7637ad23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\58\13f66a2f23b4211af901aba8209360c832efee23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\62\8fad3896b6b0863780551ba47319f841d865b323//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\63\bdd6c1d4ea4b52b496ac6fb5c737fad775c26d23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\69\d8545726968e984003dfa09b1308110a995be625//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\6b\13a51e0beefae810b9c1af8b359c6c2207d2d425//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\71\15cd2e7a33ba525510b82a95723c19f8dc23a623//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\84\cda6774fb928ad1155f4184e1e2f294bf4bfce23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\87\32883c1be1b2b9195320ccbe4bb2d744510a5025//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\97\d54a575dbaac3e1f124dde21ffb6f7310fa42123//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\9c\3a49f05b7e609ea48e353595e06f4d8dc8668c23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\bd\6e374e8eeb940660955aea8ceefe88de00e98423//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\d9\1feef251bfd290cdb4f6f11b013c63bfe983e425//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\d9\a9ea151928d8d4a17b19c073e54ecdf1f6c7a625//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\df\e0770424b2a19faf507a501ebfc23be8f54e7b23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\f5\7ea3f9bfe1f7a0f1dad0b339994ef2c76d562223//02//2024
+
+ ----------
+ 
+ ----------
+ 
+ ----------
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\1423//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\1625//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\3e23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\4023//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\4227//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\4323//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\5223//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\5823//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\6223//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\6323//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\6925//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\6b25//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\7123//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\8423//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\8725//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\9723//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\9c23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\bd23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\d925//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\df23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\f523//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\info23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\pack23//02//2024
+ 
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\refs\heads\main25//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\refs\remotes\origin\HEAD25//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\refs\remotes\origin\main25//02//2024
+
+ ----------
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\refs\remotes\origin25//02//2024
+ 
+ ----------
+ 
+ ----------
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\refs\heads25//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\refs\remotes23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\refs\tags23//02//2024
+ 
+ ----------
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\info23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\logs23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects25//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\refs23//02//2024
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\COMMIT_EDITMSG25//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\config23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\description23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\FETCH_HEAD25//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\HEAD23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\index27//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.idea\.gitignore23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.idea\misc.xml23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.idea\modules.xml23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.idea\vcs.xml23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.idea\workspace.xml25//02//2024
+
+ ----------
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git27//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.idea25//02//2024
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.gitattributes23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.gitignore23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\Exercici3.iml23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\main.java27//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\applypatch-msg.sample 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\commit-msg.sample 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\fsmonitor-watchman.sample 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\post-update.sample 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\pre-applypatch.sample 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\pre-commit.sample 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\pre-merge-commit.sample 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\pre-push.sample 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\pre-rebase.sample 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\pre-receive.sample 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\prepare-commit-msg.sample 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\push-to-checkout.sample 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\update.sample 23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\info\exclude 23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\logs\refs\heads\main 25//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\logs\refs\remotes\origin\HEAD 25//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\logs\refs\remotes\origin\main 25//02//2024
+
+ ----------
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\logs\refs\remotes\origin 23//02//2024
+ 
+ ----------
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\logs\refs\heads 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\logs\refs\remotes 23//02//2024
+ 
+ ----------
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\logs\refs 23//02//2024
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\logs\HEAD 25//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\14\f8b11c2710694b43ff080d1646bc34fea9d22f 23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\16\905cdc5974c594bf884f188fbd7f3b1780efeb 25//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\3e\a34f46e1418d3da7bd0fd81fabfea1144094ef 23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\40\96885a7275843bf8e0e85fbb72ed46971538cc 23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\42\34a6f7459e86e67fb04a3d5e7de4b9d74c1a29 27//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\42\62e97f915981c262e53200ce53c1257de33568 23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\43\6ff17c69ad1f69c63550605f733b92425e33c9 23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\52\4f0963bd1d8c6149eb6f2dc52a5fc50c7637ad 23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\58\13f66a2f23b4211af901aba8209360c832efee 23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\62\8fad3896b6b0863780551ba47319f841d865b3 23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\63\bdd6c1d4ea4b52b496ac6fb5c737fad775c26d 23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\69\d8545726968e984003dfa09b1308110a995be6 25//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\6b\13a51e0beefae810b9c1af8b359c6c2207d2d4 25//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\71\15cd2e7a33ba525510b82a95723c19f8dc23a6 23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\84\cda6774fb928ad1155f4184e1e2f294bf4bfce 23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\87\32883c1be1b2b9195320ccbe4bb2d744510a50 25//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\97\d54a575dbaac3e1f124dde21ffb6f7310fa421 23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\9c\3a49f05b7e609ea48e353595e06f4d8dc8668c 23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\bd\6e374e8eeb940660955aea8ceefe88de00e984 23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\d9\1feef251bfd290cdb4f6f11b013c63bfe983e4 25//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\d9\a9ea151928d8d4a17b19c073e54ecdf1f6c7a6 25//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\df\e0770424b2a19faf507a501ebfc23be8f54e7b 23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\f5\7ea3f9bfe1f7a0f1dad0b339994ef2c76d5622 23//02//2024
+
+ ----------
+ 
+ ----------
+ 
+ ----------
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\14 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\16 25//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\3e 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\40 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\42 27//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\43 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\52 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\58 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\62 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\63 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\69 25//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\6b 25//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\71 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\84 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\87 25//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\97 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\9c 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\bd 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\d9 25//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\df 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\f5 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\info 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\pack 23//02//2024
+ 
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\refs\heads\main 25//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\refs\remotes\origin\HEAD 25//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\refs\remotes\origin\main 25//02//2024
+
+ ----------
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\refs\remotes\origin 25//02//2024
+ 
+ ----------
+ 
+ ----------
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\refs\heads 25//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\refs\remotes 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\refs\tags 23//02//2024
+ 
+ ----------
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\info 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\logs 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects 25//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\refs 23//02//2024
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\COMMIT_EDITMSG 25//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\config 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\description 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\FETCH_HEAD 25//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\HEAD 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\index 27//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.idea\.gitignore 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.idea\misc.xml 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.idea\modules.xml 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.idea\vcs.xml 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.idea\workspace.xml 25//02//2024
+
+ ----------
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git 27//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.idea 25//02//2024
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.gitattributes 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.gitignore 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\Exercici3.iml 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\main.java 27//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\applypatch-msg.sample 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\commit-msg.sample 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\fsmonitor-watchman.sample 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\post-update.sample 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\pre-applypatch.sample 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\pre-commit.sample 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\pre-merge-commit.sample 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\pre-push.sample 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\pre-rebase.sample 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\pre-receive.sample 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\prepare-commit-msg.sample 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\push-to-checkout.sample 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks\update.sample 23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\info\exclude 23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\logs\refs\heads\main 25//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\logs\refs\remotes\origin\HEAD 25//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\logs\refs\remotes\origin\main 25//02//2024
+
+ ----------
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\logs\refs\remotes\origin 23//02//2024
+ 
+ ----------
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\logs\refs\heads 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\logs\refs\remotes 23//02//2024
+ 
+ ----------
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\logs\refs 23//02//2024
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\logs\HEAD 25//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\14\f8b11c2710694b43ff080d1646bc34fea9d22f 23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\16\905cdc5974c594bf884f188fbd7f3b1780efeb 25//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\3e\a34f46e1418d3da7bd0fd81fabfea1144094ef 23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\40\96885a7275843bf8e0e85fbb72ed46971538cc 23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\42\34a6f7459e86e67fb04a3d5e7de4b9d74c1a29 27//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\42\62e97f915981c262e53200ce53c1257de33568 23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\43\6ff17c69ad1f69c63550605f733b92425e33c9 23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\52\4f0963bd1d8c6149eb6f2dc52a5fc50c7637ad 23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\58\13f66a2f23b4211af901aba8209360c832efee 23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\62\8fad3896b6b0863780551ba47319f841d865b3 23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\63\bdd6c1d4ea4b52b496ac6fb5c737fad775c26d 23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\69\d8545726968e984003dfa09b1308110a995be6 25//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\6b\13a51e0beefae810b9c1af8b359c6c2207d2d4 25//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\71\15cd2e7a33ba525510b82a95723c19f8dc23a6 23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\84\cda6774fb928ad1155f4184e1e2f294bf4bfce 23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\87\32883c1be1b2b9195320ccbe4bb2d744510a50 25//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\97\d54a575dbaac3e1f124dde21ffb6f7310fa421 23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\9c\3a49f05b7e609ea48e353595e06f4d8dc8668c 23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\bd\6e374e8eeb940660955aea8ceefe88de00e984 23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\d9\1feef251bfd290cdb4f6f11b013c63bfe983e4 25//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\d9\a9ea151928d8d4a17b19c073e54ecdf1f6c7a6 25//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\df\e0770424b2a19faf507a501ebfc23be8f54e7b 23//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\f5\7ea3f9bfe1f7a0f1dad0b339994ef2c76d5622 23//02//2024
+
+ ----------
+ 
+ ----------
+ 
+ ----------
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\14 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\16 25//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\3e 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\40 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\42 27//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\43 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\52 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\58 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\62 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\63 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\69 25//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\6b 25//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\71 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\84 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\87 25//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\97 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\9c 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\bd 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\d9 25//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\df 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\f5 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\info 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects\pack 23//02//2024
+ 
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\refs\heads\main 25//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\refs\remotes\origin\HEAD 25//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\refs\remotes\origin\main 25//02//2024
+
+ ----------
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\refs\remotes\origin 25//02//2024
+ 
+ ----------
+ 
+ ----------
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\refs\heads 25//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\refs\remotes 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\refs\tags 23//02//2024
+ 
+ ----------
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\hooks 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\info 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\logs 23//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\objects 25//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\refs 23//02//2024
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\COMMIT_EDITMSG 25//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\config 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\description 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\FETCH_HEAD 25//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\HEAD 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git\index 27//02//2024
+
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.idea\.gitignore 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.idea\misc.xml 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.idea\modules.xml 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.idea\vcs.xml 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.idea\workspace.xml 25//02//2024
+
+ ----------
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.git 27//02//2024
+(D)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.idea 25//02//2024
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.gitattributes 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.gitignore 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\Exercici3.iml 23//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\main.java 27//02//2024
+
+ 

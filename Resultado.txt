@@ -1,0 +1,5 @@
+Jugador : asdasd - Puntos: 0
+Jugador : qew - Puntos: 0
+Jugador : asd - Puntos: 2
+Jugador : prueba2 - Puntos: 2
+Jugador : epílogo - Puntos: 4
