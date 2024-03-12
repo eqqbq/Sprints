@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$/src/main/java/Sprint1/Tasca_S1_01" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/main/java/Sprint1/Tasca_S1_01_Nivell1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/main/java/Sprint1/Tasca_S1_01_Nivell2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/main/java/Sprint1/Tasca_S1_01_Nivell3" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/main/java/Sprint1/Tasca_S1_03_Nivell1/Exercici3" vcs="Git" />
