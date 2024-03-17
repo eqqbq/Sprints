@@ -2,7 +2,7 @@ package Sprint1.Tasca_S1_03_Nivell2.Exercici2;
 
 import java.util.Objects;
 
-public class Restaurant {
+public class Restaurant implements Comparable<Restaurant> {
 
     private String nom;
     private int puntuacio;
@@ -28,17 +28,15 @@ public class Restaurant {
         this.puntuacio = puntuacio;
     }
 
-
     @Override
     public String toString() {
-        return  "Nom: " + nom  + " Puntuacio: " + puntuacio + "\n" ;
+        return "Nom: " + nom + " Puntuacio: " + puntuacio + "\n";
     }
 
     @Override
     public boolean equals(Object obj) {
         if (this == obj) return true;
-        if (!(obj instanceof Sprint1.Tasca_S1_03_Nivell2.Exercici1.Restaurant)) return false;
-        Sprint1.Tasca_S1_03_Nivell2.Exercici1.Restaurant nouRestaurant = (Sprint1.Tasca_S1_03_Nivell2.Exercici1.Restaurant) obj;
+        if (!(obj instanceof Restaurant nouRestaurant)) return false;
         return this.puntuacio == nouRestaurant.getPuntuacio() && this.nom.equals(nouRestaurant.getNom());
     }
 
@@ -47,8 +45,12 @@ public class Restaurant {
         return Objects.hash(nom, puntuacio);
     }
 
-   /* @Override
-    public int compareTo(Restaurant nouRestaurant) {
-        return Integer.compare(nouRestaurant.getPuntuacio(), this.puntuacio);
-    }*/
+    @Override
+    public int compareTo(Restaurant restaurant) {
+        int indexCompare = this.getNom().compareTo(restaurant.getNom());
+        if (indexCompare != 0) {
+            return indexCompare;
+        }
+        return Integer.compare(restaurant.getPuntuacio(), this.puntuacio);
+    }
 }

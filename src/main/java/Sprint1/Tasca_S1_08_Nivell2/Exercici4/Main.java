@@ -43,10 +43,10 @@ public class Main {
 
     public static void empiezanPorE(List<String> listaRandom){
 
-        System.out.println("Lista filtrada empiezan por 'E' primero: " + "\n");
+        System.out.println("Lista filtrada contiene 'e' primero: " + "\n");
 
-        listaRandom.stream().filter((x -> x.startsWith("e"))).forEach(System.out::println);
-        listaRandom.stream().filter((x -> !x.startsWith("e"))).forEach(System.out::println);
+        listaRandom.stream().filter((x -> x.contains("e"))).forEach(System.out::println);
+        listaRandom.stream().filter((x -> !x.contains("e"))).forEach(System.out::println);
         System.out.println("---------------------------");
     }
 

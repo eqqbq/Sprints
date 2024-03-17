@@ -14,7 +14,7 @@ public class Menu {
 
         do {
             System.out.println("Escogeix el que vols fer:" + "\n" + "1. Introduir restaurant." + "\n"
-                    + "2. Veure restaurants." + "\n" + "3.Veure restaurants ordenats per puntuació." + "4. Sortir.");
+                    + "2. Veure restaurants." + "\n" + "3. Veure restaurants ordenats per puntuació." + "\n" + "4. Sortir.");
 
             opcio = sc.nextInt();
             sc.nextLine();
@@ -54,7 +54,7 @@ public class Menu {
     public static void verRestaurantOrdenats(HashSet hashRestaurant, Scanner sc){
 
         TreeSet<Restaurant> restaurantsTreeSet = new TreeSet<>(hashRestaurant);
-
+        restaurantsTreeSet.forEach(System.out::println);
     }
 }
 

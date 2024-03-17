@@ -523,4 +523,1446 @@
 (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\Exercici3.iml 23//02//2024
 (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\main.java 27//02//2024
 
+ ----------
+ (F)C:\Users\raize\Pictures\Screenshots\desktop.ini 13//12//2023
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-01-08 185901.png 08//01//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-01-09 183321.png 09//01//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-01-13 173217.png 13//01//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-01-13 185905.png 13//01//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-01-15 020706.png 15//01//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-01-15 222728.png 15//01//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-01-16 232638.png 16//01//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-01-16 232648.png 16//01//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-01-17 192013.png 17//01//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-01-19 041539.png 19//01//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-01-19 053212.png 19//01//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-01-23 203952.png 23//01//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-01-23 204907.png 23//01//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-01-25 180814.png 25//01//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-01-26 001233.png 26//01//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-01-26 212035.png 26//01//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-01-26 225235.png 26//01//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-01-26 234144.png 26//01//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-01-27 221736.png 27//01//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-01-28 202902.png 28//01//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-01-29 021535.png 29//01//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-01-29 162346.png 29//01//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-01-30 215525.png 30//01//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-03 005703.png 03//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-03 005801.png 03//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-03 005819.png 03//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-03 023644.png 03//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-04 092646.png 04//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-05 023737.png 05//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-05 200801.png 05//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-06 112454.png 06//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-06 164113.png 06//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-06 201828.png 06//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-06 201911.png 06//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-09 035544.png 09//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-09 040116.png 09//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-09 171855.png 09//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-10 091224.png 10//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-12 105139.png 12//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-12 130447.png 12//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-16 134121.png 16//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-18 023846.png 18//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-18 165454.png 18//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-18 212713.png 18//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-19 190744.png 19//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-19 201630.png 19//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-20 010653.png 20//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-20 202356.png 20//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-20 224909.png 20//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-20 225542.png 20//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-20 232044.png 20//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-20 234221.png 20//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-21 160330.png 21//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-22 214357.png 22//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-23 022327.png 23//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-23 131310.png 23//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-24 180228.png 24//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-25 232257.png 25//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-26 210225.png 26//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-27 190402.png 27//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-27 190616.png 27//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-27 190624.png 27//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-28 184537.png 28//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-28 185050.png 28//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-02-28 185053.png 28//02//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-03-01 004358.png 01//03//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-03-01 153113.png 01//03//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-03-01 153219.png 01//03//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-03-01 202259.png 01//03//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-03-01 221551.png 01//03//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-03-02 160538.png 02//03//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-03-02 160541.png 02//03//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-03-02 215233.png 02//03//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-03-03 113012.png 03//03//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-03-03 183533.png 03//03//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-03-03 204132.png 03//03//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-03-03 205203.png 03//03//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-03-04 000947.png 04//03//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-03-04 163643.png 04//03//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-03-06 162449.png 06//03//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-03-08 120330.png 08//03//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-03-09 120811.png 09//03//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-03-09 123823.png 09//03//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-03-09 234017.png 09//03//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-03-11 100020.png 11//03//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-03-11 100038.png 11//03//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-03-12 152811.png 12//03//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-03-15 153741.png 15//03//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-03-15 201227.png 15//03//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-03-17 144225.png 17//03//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-03-17 144314.png 17//03//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-03-17 144424.png 17//03//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-03-17 144503.png 17//03//2024
+(F)C:\Users\raize\Pictures\Screenshots\Screenshot 2024-03-17 144525.png 17//03//2024
+
+ ----------
+(D)C:\Users\raize\Pictures\Screenshots 17//03//2024
+ (F)C:\Users\raize\Pictures\0tyjjyyddwk71.png 07//02//2024
+(F)C:\Users\raize\Pictures\1184118.jpg 15//12//2023
+(F)C:\Users\raize\Pictures\1274174.jpg 07//02//2024
+(F)C:\Users\raize\Pictures\cyberpunk_2077_cool_art_4k_hd_cyberpunk_2077.jpg 07//02//2024
+(F)C:\Users\raize\Pictures\desktop.ini 10//12//2023
+(F)C:\Users\raize\Pictures\GALqTXSbYAAWq3K.jpg 15//12//2023
+(F)C:\Users\raize\Pictures\GBfjaxIXEAAnb3G.jpg 17//12//2023
+(F)C:\Users\raize\Pictures\GBPBX-0WsAALPFw.jpg 14//12//2023
+(F)C:\Users\raize\Pictures\Mariachi-Legends_2023_06-11-23_007.jpg 14//02//2024
+
+ ----------
+ (F)E:\Sprints\.git\hooks\applypatch-msg.sample 12//03//2024
+(F)E:\Sprints\.git\hooks\commit-msg.sample 12//03//2024
+(F)E:\Sprints\.git\hooks\fsmonitor-watchman.sample 12//03//2024
+(F)E:\Sprints\.git\hooks\post-update.sample 12//03//2024
+(F)E:\Sprints\.git\hooks\pre-applypatch.sample 12//03//2024
+(F)E:\Sprints\.git\hooks\pre-commit.sample 12//03//2024
+(F)E:\Sprints\.git\hooks\pre-merge-commit.sample 12//03//2024
+(F)E:\Sprints\.git\hooks\pre-push.sample 12//03//2024
+(F)E:\Sprints\.git\hooks\pre-rebase.sample 12//03//2024
+(F)E:\Sprints\.git\hooks\pre-receive.sample 12//03//2024
+(F)E:\Sprints\.git\hooks\prepare-commit-msg.sample 12//03//2024
+(F)E:\Sprints\.git\hooks\push-to-checkout.sample 12//03//2024
+(F)E:\Sprints\.git\hooks\update.sample 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\info\exclude 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\logs\refs\heads\main 13//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\logs\refs\remotes\origin\HEAD 13//03//2024
+(F)E:\Sprints\.git\logs\refs\remotes\origin\main 13//03//2024
+
+ ----------
+(D)E:\Sprints\.git\logs\refs\remotes\origin 12//03//2024
+ 
+ ----------
+(D)E:\Sprints\.git\logs\refs\heads 12//03//2024
+(D)E:\Sprints\.git\logs\refs\remotes 12//03//2024
+ 
+ ----------
+(D)E:\Sprints\.git\logs\refs 12//03//2024
+ (F)E:\Sprints\.git\logs\HEAD 13//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\01\2607e2444791dcb730601d72402098ce9301aa 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\04\28c1692a59bb2ae7d54ae34952a363c6385104 12//03//2024
+(F)E:\Sprints\.git\objects\04\9aebbfc35eda7bc555f517ca8a4fdf5dedfd76 12//03//2024
+(F)E:\Sprints\.git\objects\04\af12c722c8f033f93c16bb727aa1dcd3b33691 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\06\b1a90d7fff9676b3749da34170e84c57fce567 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\08\43014ffcbf248afc421e4a6296b8b2fd75167c 12//03//2024
+(F)E:\Sprints\.git\objects\08\74b16563b1fb168f3ff1a6437d761d35c85a1a 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\09\ce5255054e4a1fff182339f3174de39b3eeb61 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\0a\62fff6ad1a484fcf6dc6d917781a79b70f6466 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\0b\0f922b9817c6513f2f0465a6e83a7d49e0052b 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\0c\5f8032fb3a46402a3176f108172c12d08eb5a9 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\0e\869396d1d1df5594f66e18e359ec423a0bae93 12//03//2024
+(F)E:\Sprints\.git\objects\0e\8be80c6828fb775fc4c0427843c3c40106cc27 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\11\1ecc641f3289f4da8b179915c39b5f0f2f1102 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\12\67ba942f6b39e1f2957af9f9047e34ec71d3be 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\16\000c29483d15f964bb133d816fb96733545c07 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\17\942ca4b0077713aa95195c28b96501de34b917 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\18\f8c46ef340fc6a2b0ae949563fcc595c8001f9 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\19\dffd7c5ecf85aa4e880d15796b231e6a4d0ec5 12//03//2024
+(F)E:\Sprints\.git\objects\19\e5b53d0f37ff66d92522aaa3dfd7e123a9485f 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\1c\2aa8f23934b2eed74b3301be43d88aae5dbbc3 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\1f\f390727c125ea036c0373031cb947426afdbd3 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\20\253dab00c1ae9b09076123a60347d3e0439474 12//03//2024
+(F)E:\Sprints\.git\objects\20\372b647eb3ad5c5a6579534537ed888a00a5a5 12//03//2024
+(F)E:\Sprints\.git\objects\20\837885360f945ad9e2a5c817593852d9c633e1 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\21\a24c46c994714499963911b6072e4f7e288514 13//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\22\4a19a45039d390e543cff1b30ad9ff800319d7 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\23\09de5f28059a045a6e23a31681186dde9f390b 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\25\f32d849677c7772c301a56e8004709ebc5e3b7 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\26\b6d0827cff0dac91d94644e499869475eb4f57 12//03//2024
+(F)E:\Sprints\.git\objects\26\d33521af10bcc7fd8cea344038eaaeb78d0ef5 13//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\27\e90070e148eec939e7da8ab242123b39261c4d 12//03//2024
+(F)E:\Sprints\.git\objects\27\fbe03879595038e0cf4ac229f055fb0ead0a98 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\28\8c514f2f24f070c8b86fa5ff2040f797877c1d 12//03//2024
+(F)E:\Sprints\.git\objects\28\cb625c75824eb111cea9a373ee259b2184a917 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\2b\3b4ddcf63cd449f4a3d5f71a2980db91a07f53 12//03//2024
+(F)E:\Sprints\.git\objects\2b\63946d5b31084bbb7dda418ceb3d75eb686373 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\2c\a14687e45cfe61bedbc3a8ff459e10792eec85 12//03//2024
+(F)E:\Sprints\.git\objects\2c\d369b29753f5b2198a8121c4b4298c394779fb 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\2e\842ba17e54615a785fc275e2dc479113e5b8fd 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\2f\9291ce9ac10cd44c1805ab19576cdbc0bfafe4 12//03//2024
+(F)E:\Sprints\.git\objects\2f\d07ad896c415306436c937c72cb3a7565740f7 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\30\4e305842784ae5a95d3c3f1ddc3564bcd3ae55 12//03//2024
+(F)E:\Sprints\.git\objects\30\bbf211a4becfa67845a8c91e7f41141c9df9f6 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\31\eaf3c5bf5f1b55532f4974b0c35bff860bb09c 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\33\8a7e7f35f34fe1f3aa6808ae175d1162bd2ff4 12//03//2024
+(F)E:\Sprints\.git\objects\33\c3299d3296ac4fb8b8add9a601acbb6823e11d 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\35\eb1ddfbbc029bcab630581847471d7f238ec53 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\36\172fe0789b7e019506b1c73a9e69bf523dbcde 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\37\27774fccb2c8be9c4e8ef31f255fa73d0caed9 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\38\a2710aa1a4f8b55ea3eade58ee7b224d95a327 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\39\5a43e8eec1ec95668b8c755e232136cd29eb63 12//03//2024
+(F)E:\Sprints\.git\objects\39\f8be87f767ce06d6e8bed61a7b6ec8f8817e66 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\3a\0343712b6344c7bf8f2124d05412cc0f485cf1 12//03//2024
+(F)E:\Sprints\.git\objects\3a\1abe21f663a41e87c5917587c935387dd17b9d 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\3b\993e396aa051d8b1afb21fc8b7439ae5d5afa2 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\3e\c6b015727e58b798872c8965311128e310d4be 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\3f\7c68b0262d066c9e175354912d1f55e25ee984 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\40\70f107519f6bf4acd2a3c5e12edc9ec59739ec 12//03//2024
+(F)E:\Sprints\.git\objects\40\e800c58e61c685bbc00813c34e78e8d2f09842 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\41\2f8af49f6d0c4b1aa8031475f74dbdff3127d4 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\42\34a6f7459e86e67fb04a3d5e7de4b9d74c1a29 12//03//2024
+(F)E:\Sprints\.git\objects\42\ac97cde3a4bf2586df20db9dd9055ec9068438 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\48\a376157a191ff279653a2a0a260acbd13f71f6 12//03//2024
+(F)E:\Sprints\.git\objects\48\abe93e025e18b8aa687363527577cf80e88489 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\4b\6dc1cfd0c31c4b45affa7f9b63e645f6c9fdcf 12//03//2024
+(F)E:\Sprints\.git\objects\4b\fb57dab94d1e5d4ec51607cae60772c0d2c1a4 13//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\4c\13d30c74750ab51da8f8fbbecdc9a353d6169f 12//03//2024
+(F)E:\Sprints\.git\objects\4c\1ecf130ee9837cb335badb8d0317fa17c410b9 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\4e\52c9f9bd7a7523466b21219fe3cb801f11a85d 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\50\4b62fc418a892299e122e9954b8d6e51bc7307 13//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\57\4a0a590592e68c3a1032457c64981b3f643744 13//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\58\3c5557b4f40f0531fd2d7a7c31c56930c0d050 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\59\1a400e17445c18fbdb707d22f248a4d0eb759b 12//03//2024
+(F)E:\Sprints\.git\objects\59\7576594fa594a5aecb513a20bbb5b8170e9898 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\5a\5f6f33977707b01e8248e1d1ea7d12c8891570 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\5d\6b03c520937fb481c59ffb52fd2c08053ddcae 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\5f\f6309b7199129c1afe4f4ec1906e640bec48c6 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\61\9fb1476d12f8b48e81466bd7b551d32322d258 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\62\96adfb5a4bc6dea8005b6279343afd6adad1ad 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\63\7a17cf488c0bdd88b5592aaad86b029517084a 12//03//2024
+(F)E:\Sprints\.git\objects\63\bdd6c1d4ea4b52b496ac6fb5c737fad775c26d 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\64\0698b156486d6937bbda02625fa99d96a63f39 12//03//2024
+(F)E:\Sprints\.git\objects\64\becdf8800572c6a187c234e80ba7c3d5ba0bb6 12//03//2024
+(F)E:\Sprints\.git\objects\64\f0f259071e1686ae0fa003995597a68414b692 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\65\de9328aabb08dfaacf362bd6904c7b317d4d13 13//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\68\75919e4eeb23bc1f333c7882572506df4563da 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\69\0a9cf35b6d7123ff70808a44b64e21834eb6fd 12//03//2024
+(F)E:\Sprints\.git\objects\69\6ede126857edf5e047059aefbdcb219f3177a8 12//03//2024
+(F)E:\Sprints\.git\objects\69\f5ff48888bb40e235a669d92c151b1792595cb 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\6c\7433f62e08aa732887bddfe9d55f2621aef277 12//03//2024
+(F)E:\Sprints\.git\objects\6c\bf7a30ab3e11c8e608a323a0da667b59b3e432 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\6d\412cf4bd7906630315a65652e094e7102e7b91 12//03//2024
+(F)E:\Sprints\.git\objects\6d\98d016ecc961dbe3e1000b19681590dd784d2f 12//03//2024
+(F)E:\Sprints\.git\objects\6d\d8308845e6079f651825bf8947844025fc8154 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\6f\29fee2f2b3b412625a792b92bcd1263e5b765a 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\70\a8ee0feca1fe2bb9face1c44f5ce865219821c 12//03//2024
+(F)E:\Sprints\.git\objects\70\e40c80dca364f6c9afd05338f4d4580785b002 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\71\5a4ff7442e2b0315a69b7890a380fa3a9eee8b 12//03//2024
+(F)E:\Sprints\.git\objects\71\8cce018808cd8113caeaca905fc2306990db16 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\72\f5919ac286a30f61654cc4f66fb66c1798b746 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\73\6990dc3a172be10f4986ae81dbe2e8f6db6794 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\74\bd4c7647fa1a74331da18e7c3510df53467c5e 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\75\e03eb8dd24c220f50fca2fb8cd480bdc93ef77 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\77\3a3814642bb5363db8b54b9c93460908dcc7d7 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\78\9af9bbdf904c7579b6badba2465b6bec7454c3 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\79\aa86e32138feb0a371de450e6e68b8c951552b 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\7a\a4cf29b416fa80396ee46605eb81f91b76b4ce 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\7b\99521d8d1ca6906cdd98c00ea2678fac80ee38 12//03//2024
+(F)E:\Sprints\.git\objects\7b\a4554e6df376091d5f4dc63adb42741eadb030 12//03//2024
+(F)E:\Sprints\.git\objects\7b\fc06d96854a6ddd9d24cd3ebf51ca40ca8265d 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\7d\fde5c0efda4b7c5e0f6bcd39a22d9ad89df429 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\7e\f0248b35c502eb04d99247e31acb8b1d2fbb56 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\81\06554f0b673cf6316819d8d8ff3553f768e990 12//03//2024
+(F)E:\Sprints\.git\objects\81\2dc5d0d03f51d8c671d71ba9a96c014b003ebe 12//03//2024
+(F)E:\Sprints\.git\objects\81\5bca5ad9eca46ad9593117a642117b0023d2f8 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\82\2bb565e91fcfaa4706f8b927ce79f70f931b2c 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\85\b4b3b9e8cb85c20b1fce8ad5545b5063008d07 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\87\81be8721ee4d86e76cb9510127ad88cd9a07bf 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\88\33cfd32d0bfa1184218247aa5a23e4ba1f4e44 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\8b\2cd22f3c2832ba94a04a7400da3435dd02315a 13//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\8c\b0d24cfaaf3302032e9cd0910f474ad9857526 12//03//2024
+(F)E:\Sprints\.git\objects\8c\e3cad77eb9a060fabe1599fbf32f595e4f72cf 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\8d\71efaf2870d96c9439ce5f101d46b4e49cdadb 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\93\745cd84abafda588dbccf009aca2c4b034753e 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\94\a25f7f4cb416c083d265558da75d457237d671 13//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\96\06c40306386eb04e216d508e2b4c29e1ef9aad 12//03//2024
+(F)E:\Sprints\.git\objects\96\2cc59d722a8c66275d06ab06e396cc28ce5076 13//03//2024
+(F)E:\Sprints\.git\objects\96\cea943174457d44a3193030e7c02875e43378d 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\9a\56043377ae9f123ec872302d8f11a7346cdb21 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\9b\1a1c2b4c4c780702a8841c62b2331b9ed203c1 13//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\9d\892725ab5d4c9264750ecfe6c1788e0f8f2242 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\9e\159718bcea890886d75a98895ab0e6cebfde28 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\a4\436520090b313f0ff0bbd8520d5164ab9a7f22 12//03//2024
+(F)E:\Sprints\.git\objects\a4\d0d7765263960fb8d486c5e10168a06cd58043 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\a6\5d5c56b0c83bba4451c1b61a53468243f5d608 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\a7\628b45aedcefd9c903175d4a8e93cf230586d3 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\a8\9721d853639f14b869eb8a260b956b84e7a3f4 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\aa\00ffab7828f4818589659c804ec2cfd99baed3 12//03//2024
+(F)E:\Sprints\.git\objects\aa\ff85b31bd8c94cf59bdea78debafc13d1d1f9e 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\ac\12f11ae90637e73caaba76be79179288d9e8e1 12//03//2024
+(F)E:\Sprints\.git\objects\ac\9e196c0082479018b868fc7a82d30170a19669 12//03//2024
+(F)E:\Sprints\.git\objects\ac\d50cc77abf6ec649cbdc8fdc6a6783cffb4161 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\ad\9cbee4d895de7841a0bee66034c8a88a666d61 12//03//2024
+(F)E:\Sprints\.git\objects\ad\b7d0ca47f71da679eb46d07f1a43bfa85a67f8 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\af\194aa74a5d7c7f7bf6e37b5ea07cd86b479ff5 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\b0\831b049ac655f443a55fb2229aa8dd5680071d 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\b1\ac6e3d363acc69bf2e59ef4bbff409ce117526 12//03//2024
+(F)E:\Sprints\.git\objects\b1\e9d775e61859bae86cb4c8061c3c49232ac554 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\b3\76afcbcbcb53dde2500fcbce7ca95aaff520f8 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\b4\dad16598ddbf57d928746b5f0c4af9d48b10fe 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\b5\ef5a97ce6870b0c33246f19150244c968befc3 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\b7\33ce07ede9426123cdfee73ee588cc6f2cd532 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\b9\dbb34d5c1195411456e1a9761a38ba8ebf2406 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\bc\01bd1ea868a393f8e065c8fb9c730bbbfde8eb 12//03//2024
+(F)E:\Sprints\.git\objects\bc\e6e3f3e72da489798225cc0a810868a227578a 13//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\bf\8e065ab3bd8c48d1fb62d165a457b0b9b51b94 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\c2\bdfe2ad17f9bdf417c5e996369555545f4dd24 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\c3\2dd18c6aedeaf07a2b836f965fc0a6c3ead79a 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\c4\ac56bb8c5608acc3f32711f247a9165d0c555c 12//03//2024
+(F)E:\Sprints\.git\objects\c4\b27b3a8ea2e532c2011c9c7e94888899e4d172 12//03//2024
+(F)E:\Sprints\.git\objects\c4\e1c8242993f15d5fbe0f73f65872da6c7a2fb1 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\c5\75f02671fb568008f4dcab5c7aec58604afe38 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\c7\694cd01012564c1e3258fb271c0f6082f1a295 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\cb\532f95f5a146c094848d46fbf2a77f3dda7303 12//03//2024
+(F)E:\Sprints\.git\objects\cb\9bfd236f6668d3530cca48e4f925564cff5898 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\ce\55fc1147bb0768e2c97bdb9e70bac1710d08d0 12//03//2024
+(F)E:\Sprints\.git\objects\ce\5670f10d656822a0076033f60d1303f704b282 12//03//2024
+(F)E:\Sprints\.git\objects\ce\99046b83a1c83cfaa35e5b63ca4c3b99693fb1 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\d0\e99065fe52fe70ae3415a244411286a727ba39 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\d1\0ca6cc9e65f4f1131bb8d38aa9619ecc6ae8cb 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\d2\1c254f895a8ba9f632c04d66ab35f8382216fd 12//03//2024
+(F)E:\Sprints\.git\objects\d2\8abbfa298278f2db8a35e71666c9afd40f6919 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\d3\06f2d3fb821953ccf43e8be5b73dec00516003 12//03//2024
+(F)E:\Sprints\.git\objects\d3\bcd608da7523ee8e4211813bf734e205fd70a4 13//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\d5\8a761a0a7eb5baf97aed6b37f4052d38ca4de0 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\d6\519abf9f9b4d1aedf727dc02014aafeebe313b 12//03//2024
+(F)E:\Sprints\.git\objects\d6\da1143fda10f3646be0f996997d39b2c7d8cb6 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\d8\2102dec0a821a2924f7deea8445a641e74d0e3 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\db\c54d69220655262f3b0e26187e23ea554c441c 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\dc\32878f89bd2b883d239383e27196025363a40e 12//03//2024
+(F)E:\Sprints\.git\objects\dc\5e6f0f7de0e5f465248c61c534cdc6af9b85e0 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\dd\1061a0bf01c4b296e9bf7f8b82895f1e35eea4 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\df\37f856414681793e4cd42456df87477ab68e1d 12//03//2024
+(F)E:\Sprints\.git\objects\df\3d28853a7e84337f7874b164dccf044005e969 12//03//2024
+(F)E:\Sprints\.git\objects\df\e0770424b2a19faf507a501ebfc23be8f54e7b 12//03//2024
+(F)E:\Sprints\.git\objects\df\fa8f1f582ac2c07514f88e4729ed3d065c967b 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\e2\f1a46339db887368a7a917d552f19fabcb15fc 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\e3\a69ad37ca5892d0b9b69191c9dd5cc2ae8f8f2 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\e8\c94540bb67564208f67b709064a5a23b4b0d09 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\eb\2ef06e789d9c1b1416573112291c19fc86d318 13//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\ec\723b74f934b956348905e031e707b328ec95a2 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\ed\b7d58f0b480ac225ea52dd423bab6590c776e5 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\ee\3e7082483c77902a8d2e429c786fb0ca82fc4b 12//03//2024
+(F)E:\Sprints\.git\objects\ee\70493ae4bbbe0fabcf5357b992dc322ead989b 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\f0\5cb920a5ab84cf337f19ec31e7c4a91aa8332a 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\f1\5863e5cd8d57a3a3fd7d95dbc1a91ab17bf93d 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\f3\cc742d629d5b108014096b27d716275a57fe18 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\f4\5af269bcc9e4c2943da7f338b3d653d08c8dea 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\f7\d5c88b39f4dc63675a96c2be044d799cf315b5 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\objects\fb\e3e13bd3cf46524a5223d50f348f72efe8d146 12//03//2024
+
+ ----------
+ 
+ ----------
+ 
+ ----------
+(D)E:\Sprints\.git\objects\01 12//03//2024
+(D)E:\Sprints\.git\objects\04 12//03//2024
+(D)E:\Sprints\.git\objects\06 12//03//2024
+(D)E:\Sprints\.git\objects\08 12//03//2024
+(D)E:\Sprints\.git\objects\09 12//03//2024
+(D)E:\Sprints\.git\objects\0a 12//03//2024
+(D)E:\Sprints\.git\objects\0b 12//03//2024
+(D)E:\Sprints\.git\objects\0c 12//03//2024
+(D)E:\Sprints\.git\objects\0e 12//03//2024
+(D)E:\Sprints\.git\objects\11 12//03//2024
+(D)E:\Sprints\.git\objects\12 12//03//2024
+(D)E:\Sprints\.git\objects\16 12//03//2024
+(D)E:\Sprints\.git\objects\17 12//03//2024
+(D)E:\Sprints\.git\objects\18 12//03//2024
+(D)E:\Sprints\.git\objects\19 12//03//2024
+(D)E:\Sprints\.git\objects\1c 12//03//2024
+(D)E:\Sprints\.git\objects\1f 12//03//2024
+(D)E:\Sprints\.git\objects\20 12//03//2024
+(D)E:\Sprints\.git\objects\21 13//03//2024
+(D)E:\Sprints\.git\objects\22 12//03//2024
+(D)E:\Sprints\.git\objects\23 12//03//2024
+(D)E:\Sprints\.git\objects\25 12//03//2024
+(D)E:\Sprints\.git\objects\26 12//03//2024
+(D)E:\Sprints\.git\objects\27 12//03//2024
+(D)E:\Sprints\.git\objects\28 12//03//2024
+(D)E:\Sprints\.git\objects\2b 12//03//2024
+(D)E:\Sprints\.git\objects\2c 12//03//2024
+(D)E:\Sprints\.git\objects\2e 12//03//2024
+(D)E:\Sprints\.git\objects\2f 12//03//2024
+(D)E:\Sprints\.git\objects\30 12//03//2024
+(D)E:\Sprints\.git\objects\31 12//03//2024
+(D)E:\Sprints\.git\objects\33 12//03//2024
+(D)E:\Sprints\.git\objects\35 12//03//2024
+(D)E:\Sprints\.git\objects\36 12//03//2024
+(D)E:\Sprints\.git\objects\37 12//03//2024
+(D)E:\Sprints\.git\objects\38 12//03//2024
+(D)E:\Sprints\.git\objects\39 12//03//2024
+(D)E:\Sprints\.git\objects\3a 12//03//2024
+(D)E:\Sprints\.git\objects\3b 12//03//2024
+(D)E:\Sprints\.git\objects\3e 12//03//2024
+(D)E:\Sprints\.git\objects\3f 12//03//2024
+(D)E:\Sprints\.git\objects\40 12//03//2024
+(D)E:\Sprints\.git\objects\41 12//03//2024
+(D)E:\Sprints\.git\objects\42 12//03//2024
+(D)E:\Sprints\.git\objects\48 12//03//2024
+(D)E:\Sprints\.git\objects\4b 13//03//2024
+(D)E:\Sprints\.git\objects\4c 12//03//2024
+(D)E:\Sprints\.git\objects\4e 12//03//2024
+(D)E:\Sprints\.git\objects\50 13//03//2024
+(D)E:\Sprints\.git\objects\57 13//03//2024
+(D)E:\Sprints\.git\objects\58 12//03//2024
+(D)E:\Sprints\.git\objects\59 12//03//2024
+(D)E:\Sprints\.git\objects\5a 12//03//2024
+(D)E:\Sprints\.git\objects\5d 12//03//2024
+(D)E:\Sprints\.git\objects\5f 12//03//2024
+(D)E:\Sprints\.git\objects\61 12//03//2024
+(D)E:\Sprints\.git\objects\62 12//03//2024
+(D)E:\Sprints\.git\objects\63 12//03//2024
+(D)E:\Sprints\.git\objects\64 12//03//2024
+(D)E:\Sprints\.git\objects\65 13//03//2024
+(D)E:\Sprints\.git\objects\68 12//03//2024
+(D)E:\Sprints\.git\objects\69 12//03//2024
+(D)E:\Sprints\.git\objects\6c 12//03//2024
+(D)E:\Sprints\.git\objects\6d 12//03//2024
+(D)E:\Sprints\.git\objects\6f 12//03//2024
+(D)E:\Sprints\.git\objects\70 12//03//2024
+(D)E:\Sprints\.git\objects\71 12//03//2024
+(D)E:\Sprints\.git\objects\72 12//03//2024
+(D)E:\Sprints\.git\objects\73 12//03//2024
+(D)E:\Sprints\.git\objects\74 12//03//2024
+(D)E:\Sprints\.git\objects\75 12//03//2024
+(D)E:\Sprints\.git\objects\77 12//03//2024
+(D)E:\Sprints\.git\objects\78 12//03//2024
+(D)E:\Sprints\.git\objects\79 12//03//2024
+(D)E:\Sprints\.git\objects\7a 12//03//2024
+(D)E:\Sprints\.git\objects\7b 12//03//2024
+(D)E:\Sprints\.git\objects\7d 12//03//2024
+(D)E:\Sprints\.git\objects\7e 12//03//2024
+(D)E:\Sprints\.git\objects\81 12//03//2024
+(D)E:\Sprints\.git\objects\82 12//03//2024
+(D)E:\Sprints\.git\objects\85 12//03//2024
+(D)E:\Sprints\.git\objects\87 12//03//2024
+(D)E:\Sprints\.git\objects\88 12//03//2024
+(D)E:\Sprints\.git\objects\8b 12//03//2024
+(D)E:\Sprints\.git\objects\8c 12//03//2024
+(D)E:\Sprints\.git\objects\8d 12//03//2024
+(D)E:\Sprints\.git\objects\93 12//03//2024
+(D)E:\Sprints\.git\objects\94 13//03//2024
+(D)E:\Sprints\.git\objects\96 13//03//2024
+(D)E:\Sprints\.git\objects\9a 12//03//2024
+(D)E:\Sprints\.git\objects\9b 13//03//2024
+(D)E:\Sprints\.git\objects\9d 12//03//2024
+(D)E:\Sprints\.git\objects\9e 12//03//2024
+(D)E:\Sprints\.git\objects\a4 12//03//2024
+(D)E:\Sprints\.git\objects\a6 12//03//2024
+(D)E:\Sprints\.git\objects\a7 12//03//2024
+(D)E:\Sprints\.git\objects\a8 12//03//2024
+(D)E:\Sprints\.git\objects\aa 12//03//2024
+(D)E:\Sprints\.git\objects\ac 12//03//2024
+(D)E:\Sprints\.git\objects\ad 12//03//2024
+(D)E:\Sprints\.git\objects\af 12//03//2024
+(D)E:\Sprints\.git\objects\b0 12//03//2024
+(D)E:\Sprints\.git\objects\b1 12//03//2024
+(D)E:\Sprints\.git\objects\b3 12//03//2024
+(D)E:\Sprints\.git\objects\b4 12//03//2024
+(D)E:\Sprints\.git\objects\b5 12//03//2024
+(D)E:\Sprints\.git\objects\b7 12//03//2024
+(D)E:\Sprints\.git\objects\b9 12//03//2024
+(D)E:\Sprints\.git\objects\bc 13//03//2024
+(D)E:\Sprints\.git\objects\bf 12//03//2024
+(D)E:\Sprints\.git\objects\c2 12//03//2024
+(D)E:\Sprints\.git\objects\c3 12//03//2024
+(D)E:\Sprints\.git\objects\c4 12//03//2024
+(D)E:\Sprints\.git\objects\c5 12//03//2024
+(D)E:\Sprints\.git\objects\c7 12//03//2024
+(D)E:\Sprints\.git\objects\cb 12//03//2024
+(D)E:\Sprints\.git\objects\ce 12//03//2024
+(D)E:\Sprints\.git\objects\d0 12//03//2024
+(D)E:\Sprints\.git\objects\d1 12//03//2024
+(D)E:\Sprints\.git\objects\d2 12//03//2024
+(D)E:\Sprints\.git\objects\d3 13//03//2024
+(D)E:\Sprints\.git\objects\d5 12//03//2024
+(D)E:\Sprints\.git\objects\d6 12//03//2024
+(D)E:\Sprints\.git\objects\d8 12//03//2024
+(D)E:\Sprints\.git\objects\db 12//03//2024
+(D)E:\Sprints\.git\objects\dc 12//03//2024
+(D)E:\Sprints\.git\objects\dd 12//03//2024
+(D)E:\Sprints\.git\objects\df 12//03//2024
+(D)E:\Sprints\.git\objects\e2 12//03//2024
+(D)E:\Sprints\.git\objects\e3 12//03//2024
+(D)E:\Sprints\.git\objects\e8 12//03//2024
+(D)E:\Sprints\.git\objects\eb 13//03//2024
+(D)E:\Sprints\.git\objects\ec 12//03//2024
+(D)E:\Sprints\.git\objects\ed 12//03//2024
+(D)E:\Sprints\.git\objects\ee 12//03//2024
+(D)E:\Sprints\.git\objects\f0 12//03//2024
+(D)E:\Sprints\.git\objects\f1 12//03//2024
+(D)E:\Sprints\.git\objects\f3 12//03//2024
+(D)E:\Sprints\.git\objects\f4 12//03//2024
+(D)E:\Sprints\.git\objects\f7 12//03//2024
+(D)E:\Sprints\.git\objects\fb 12//03//2024
+(D)E:\Sprints\.git\objects\info 12//03//2024
+(D)E:\Sprints\.git\objects\pack 12//03//2024
+ 
+ ----------
+ (F)E:\Sprints\.git\refs\heads\main 13//03//2024
+
+ ----------
+ (F)E:\Sprints\.git\refs\remotes\origin\HEAD 13//03//2024
+(F)E:\Sprints\.git\refs\remotes\origin\main 13//03//2024
+
+ ----------
+(D)E:\Sprints\.git\refs\remotes\origin 13//03//2024
+ 
+ ----------
+ 
+ ----------
+(D)E:\Sprints\.git\refs\heads 13//03//2024
+(D)E:\Sprints\.git\refs\remotes 12//03//2024
+(D)E:\Sprints\.git\refs\tags 12//03//2024
+ 
+ ----------
+(D)E:\Sprints\.git\hooks 12//03//2024
+(D)E:\Sprints\.git\info 12//03//2024
+(D)E:\Sprints\.git\logs 12//03//2024
+(D)E:\Sprints\.git\objects 13//03//2024
+(D)E:\Sprints\.git\refs 12//03//2024
+ (F)E:\Sprints\.git\COMMIT_EDITMSG 13//03//2024
+(F)E:\Sprints\.git\config 12//03//2024
+(F)E:\Sprints\.git\description 12//03//2024
+(F)E:\Sprints\.git\FETCH_HEAD 13//03//2024
+(F)E:\Sprints\.git\HEAD 12//03//2024
+(F)E:\Sprints\.git\index 13//03//2024
+(F)E:\Sprints\.git\ORIG_HEAD 12//03//2024
+
+ ----------
+ (F)E:\Sprints\.idea\.gitignore 19//02//2024
+(F)E:\Sprints\.idea\.name 22//02//2024
+(F)E:\Sprints\.idea\compiler.xml 05//03//2024
+(F)E:\Sprints\.idea\encodings.xml 19//02//2024
+(F)E:\Sprints\.idea\jarRepositories.xml 19//02//2024
+(F)E:\Sprints\.idea\misc.xml 14//03//2024
+(F)E:\Sprints\.idea\uiDesigner.xml 20//02//2024
+(F)E:\Sprints\.idea\vcs.xml 12//03//2024
+(F)E:\Sprints\.idea\workspace.xml 17//03//2024
+
+ ----------
+ (F)E:\Sprints\Output\archivoJSON.json 14//03//2024
+
+ ----------
+ (F)E:\Sprints\src\main\java\Katas\kata1\Main.java 12//03//2024
+
+ ----------
+(D)E:\Sprints\src\main\java\Katas\kata1 12//03//2024
+ 
+ ----------
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell1\.idea\.gitignore 12//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell1\.idea\misc.xml 12//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell1\.idea\modules.xml 12//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell1\.idea\vcs.xml 12//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell1\.idea\workspace.xml 12//03//2024
+
+ ----------
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell1\exercici1\Corda.java 12//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell1\exercici1\Instruments.java 12//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell1\exercici1\main.java 12//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell1\exercici1\Percussio.java 12//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell1\exercici1\Vent.java 12//03//2024
+
+ ----------
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell1\exercici2\Coche.java 12//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell1\exercici2\main.java 12//03//2024
+
+ ----------
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell1\.idea 12//03//2024
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell1\exercici1 12//03//2024
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell1\exercici2 12//03//2024
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell1\Tasca_S1_01_Nivell1.iml 12//03//2024
+
+ ----------
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell2\Exercici1\Camera.java 05//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell2\Exercici1\Main.java 05//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell2\Exercici1\Rellotge.java 05//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell2\Exercici1\Smartphone.java 05//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell2\Exercici1\Telefon.java 05//03//2024
+
+ ----------
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell2\Exercici1 05//03//2024
+ 
+ ----------
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell3\.idea\.gitignore 12//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell3\.idea\misc.xml 12//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell3\.idea\modules.xml 12//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell3\.idea\vcs.xml 12//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell3\.idea\workspace.xml 13//03//2024
+
+ ----------
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell3\.idea 13//03//2024
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell3\Basquet.java 10//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell3\F1.java 10//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell3\Futbol.java 10//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell3\Main.java 11//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell3\Menu.java 11//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell3\Motociclisme.java 10//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell3\Noticia.java 10//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell3\Redactor.java 10//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell3\Tasca_S1_01_Nivell3.iml 12//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell3\Tenis.java 10//03//2024
+
+ ----------
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_02_Nivell1\Exercici1\Main.java 12//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_02_Nivell1\Exercici1\Producte.java 12//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_02_Nivell1\Exercici1\Venda.java 12//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_02_Nivell1\Exercici1\VendaBuidaException.java 12//03//2024
+
+ ----------
+ 
+ ----------
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_02_Nivell1\Exercici1 12//03//2024
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_02_Nivell1\Exercici2 21//02//2024
+ 
+ ----------
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_02_Nivell2\Entrada.java 07//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_02_Nivell2\Main.java 06//03//2024
+
+ ----------
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici1\main.java 21//02//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici1\Month.java 21//02//2024
+
+ ----------
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici2\Main.java 21//02//2024
+
+ ----------
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.idea\.gitignore 23//02//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.idea\misc.xml 23//02//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.idea\modules.xml 23//02//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.idea\vcs.xml 23//02//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.idea\workspace.xml 25//02//2024
+
+ ----------
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.idea 25//02//2024
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\.gitignore 23//02//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\Exercici3.iml 23//02//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3\main.java 27//02//2024
+
+ ----------
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici1 21//02//2024
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici2 21//02//2024
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1\Exercici3 12//03//2024
+ 
+ ----------
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell2\Exercici1\Main.java 12//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell2\Exercici1\Menu.java 12//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell2\Exercici1\Restaurant.java 13//03//2024
+
+ ----------
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell2\Exercici2\Main.java 12//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell2\Exercici2\Menu.java 13//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell2\Exercici2\Restaurant.java 13//03//2024
+
+ ----------
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell2\Exercici1 13//03//2024
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell2\Exercici2 13//03//2024
+ 
+ ----------
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_04\Nivell1\Exercici1\main.java 27//02//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_04\Nivell1\Exercici1\Mesos.java 27//02//2024
+
+ ----------
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_04\Nivell1\Exercici2\calculadorDNI.java 27//02//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_04\Nivell1\Exercici2\main.java 27//02//2024
+
+ ----------
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_04\Nivell1\Exercici3\ArrayExceptionGenerador.java 27//02//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_04\Nivell1\Exercici3\main.java 27//02//2024
+
+ ----------
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_04\Nivell1\Exercici1 27//02//2024
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_04\Nivell1\Exercici2 27//02//2024
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_04\Nivell1\Exercici3 27//02//2024
+ 
+ ----------
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_04\Nivell1 27//02//2024
+ 
+ ----------
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_04_Nivell2\Main.java 13//03//2024
+
+ ----------
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_05\Nivell1\Exercici1\Empleado.java 28//02//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_05\Nivell1\Exercici1\LectorFicheros.java 28//02//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_05\Nivell1\Exercici1\main.java 17//03//2024
+
+ ----------
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_05\Nivell1\Exercici1 17//03//2024
+ 
+ ----------
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_05\Nivell1 03//03//2024
+ 
+ ----------
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_06_Nivell1\Exercici1\main.java 03//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_06_Nivell1\Exercici1\NoGenericMethods.java 03//03//2024
+
+ ----------
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_06_Nivell1\Exercici2\GenericMethods.java 03//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_06_Nivell1\Exercici2\Main.java 03//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_06_Nivell1\Exercici2\Persona.java 03//03//2024
+
+ ----------
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_06_Nivell1\Exercici1 03//03//2024
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_06_Nivell1\Exercici2 03//03//2024
+ 
+ ----------
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_06_Nivell2\Exercici1\GenericMethods.java 05//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_06_Nivell2\Exercici1\Main.java 05//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_06_Nivell2\Exercici1\Persona.java 05//03//2024
+
+ ----------
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_06_Nivell2\Exercici2\GenericMethods.java 05//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_06_Nivell2\Exercici2\Main.java 05//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_06_Nivell2\Exercici2\Persona.java 05//03//2024
+
+ ----------
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_06_Nivell2\Exercici1 05//03//2024
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_06_Nivell2\Exercici2 05//03//2024
+ 
+ ----------
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_07_Nivell1\Exercici1\Main.java 14//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_07_Nivell1\Exercici1\SupressWarnings.java 03//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_07_Nivell1\Exercici1\Treballador.java 03//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_07_Nivell1\Exercici1\TreballadorOnline.java 03//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_07_Nivell1\Exercici1\TreballadorPresencial.java 03//03//2024
+
+ ----------
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_07_Nivell1\Exercici1 14//03//2024
+ 
+ ----------
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_07_Nivell2\Main.java 14//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_07_Nivell2\Movil.java 14//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_07_Nivell2\MovilJSON.json 14//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_07_Nivell2\Serializer.java 14//03//2024
+
+ ----------
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_08_Nivell1\Exercici1\Main.java 06//03//2024
+
+ ----------
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_08_Nivell1\Exercici2\Main.java 06//03//2024
+
+ ----------
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_08_Nivell1\Exercici3\Main.java 04//03//2024
+
+ ----------
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_08_Nivell1\Exercici4\Main.java 04//03//2024
+
+ ----------
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_08_Nivell1\Exercici5\FunctionalInterface.java 04//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_08_Nivell1\Exercici5\Main.java 04//03//2024
+
+ ----------
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_08_Nivell1\Exercici6\Main.java 04//03//2024
+
+ ----------
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_08_Nivell1\Exercici7\Main.java 04//03//2024
+
+ ----------
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_08_Nivell1\Exercici8\FunctionalInterface.java 07//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_08_Nivell1\Exercici8\Main.java 07//03//2024
+
+ ----------
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_08_Nivell1\Exercici1 06//03//2024
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_08_Nivell1\Exercici2 06//03//2024
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_08_Nivell1\Exercici3 04//03//2024
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_08_Nivell1\Exercici4 04//03//2024
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_08_Nivell1\Exercici5 04//03//2024
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_08_Nivell1\Exercici6 04//03//2024
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_08_Nivell1\Exercici7 04//03//2024
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_08_Nivell1\Exercici8 07//03//2024
+ 
+ ----------
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_08_Nivell2\Exercici1\Main.java 06//03//2024
+
+ ----------
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_08_Nivell2\Exercici2\Main.java 06//03//2024
+
+ ----------
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_08_Nivell2\Exercici3\Main.java 07//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_08_Nivell2\Exercici3\Operaciones.java 07//03//2024
+
+ ----------
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_08_Nivell2\Exercici4\Main.java 14//03//2024
+
+ ----------
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_08_Nivell2\Exercici1 06//03//2024
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_08_Nivell2\Exercici2 06//03//2024
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_08_Nivell2\Exercici3 07//03//2024
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_08_Nivell2\Exercici4 14//03//2024
+ 
+ ----------
+ (F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_08_Nivell3\Alumne.java 07//03//2024
+(F)E:\Sprints\src\main\java\Sprint1\Tasca_S1_08_Nivell3\Main.java 07//03//2024
+
+ ----------
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell1 12//03//2024
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell2 12//03//2024
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_01_Nivell3 12//03//2024
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_02_Nivell1 20//02//2024
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_02_Nivell2 07//03//2024
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell1 27//02//2024
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_03_Nivell2 12//03//2024
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_04 13//03//2024
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_04_Nivell2 13//03//2024
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_05 27//02//2024
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_06_Nivell1 03//03//2024
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_06_Nivell2 05//03//2024
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_07_Nivell1 03//03//2024
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_07_Nivell2 14//03//2024
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_08_Nivell1 04//03//2024
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_08_Nivell2 05//03//2024
+(D)E:\Sprints\src\main\java\Sprint1\Tasca_S1_08_Nivell3 07//03//2024
+ 
+ ----------
+ 
+ ----------
+(D)E:\Sprints\src\main\java\Katas 12//03//2024
+(D)E:\Sprints\src\main\java\Sprint1 13//03//2024
+(D)E:\Sprints\src\main\java\Sprint2 20//02//2024
+ 
+ ----------
+ 
+ ----------
+(D)E:\Sprints\src\main\java 12//03//2024
+(D)E:\Sprints\src\main\resources 19//02//2024
+ 
+ ----------
+ (F)E:\Sprints\src\test\java\Sprint1\Tasca_S1_04\Nivell1\Exercici1\MesosTest.java 27//02//2024
+
+ ----------
+ (F)E:\Sprints\src\test\java\Sprint1\Tasca_S1_04\Nivell1\Exercici2\calculadorDNITest.java 27//02//2024
+
+ ----------
+ (F)E:\Sprints\src\test\java\Sprint1\Tasca_S1_04\Nivell1\Exercici3\ArrayExceptionGeneradorTest.java 27//02//2024
+
+ ----------
+(D)E:\Sprints\src\test\java\Sprint1\Tasca_S1_04\Nivell1\Exercici1 27//02//2024
+(D)E:\Sprints\src\test\java\Sprint1\Tasca_S1_04\Nivell1\Exercici2 27//02//2024
+(D)E:\Sprints\src\test\java\Sprint1\Tasca_S1_04\Nivell1\Exercici3 27//02//2024
+ 
+ ----------
+ (F)E:\Sprints\src\test\java\Sprint1\Tasca_S1_04\Nivell2\MatcherPersonalitzat.java 13//03//2024
+(F)E:\Sprints\src\test\java\Sprint1\Tasca_S1_04\Nivell2\Test2.java 13//03//2024
+
+ ----------
+(D)E:\Sprints\src\test\java\Sprint1\Tasca_S1_04\Nivell1 27//02//2024
+(D)E:\Sprints\src\test\java\Sprint1\Tasca_S1_04\Nivell2 13//03//2024
+ 
+ ----------
+(D)E:\Sprints\src\test\java\Sprint1\Tasca_S1_04 13//03//2024
+ 
+ ----------
+(D)E:\Sprints\src\test\java\Sprint1 27//02//2024
+ 
+ ----------
+(D)E:\Sprints\src\test\java 27//02//2024
+ 
+ ----------
+(D)E:\Sprints\src\main 19//02//2024
+(D)E:\Sprints\src\test 19//02//2024
+ 
+ ----------
+ (F)E:\Sprints\target\classes\Katas\kata1\Main.class 17//03//2024
+
+ ----------
+(D)E:\Sprints\target\classes\Katas\kata1 14//03//2024
+ 
+ ----------
+ (F)E:\Sprints\target\classes\Sprint1\Tasca_S1_01_Nivell1\exercici1\Corda.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_01_Nivell1\exercici1\Instruments.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_01_Nivell1\exercici1\main.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_01_Nivell1\exercici1\Percussio.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_01_Nivell1\exercici1\Vent.class 17//03//2024
+
+ ----------
+ (F)E:\Sprints\target\classes\Sprint1\Tasca_S1_01_Nivell1\exercici2\Coche.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_01_Nivell1\exercici2\main.class 17//03//2024
+
+ ----------
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_01_Nivell1\exercici1 14//03//2024
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_01_Nivell1\exercici2 14//03//2024
+ 
+ ----------
+ (F)E:\Sprints\target\classes\Sprint1\Tasca_S1_01_Nivell2\Exercici1\Camera.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_01_Nivell2\Exercici1\Main.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_01_Nivell2\Exercici1\Rellotge.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_01_Nivell2\Exercici1\Smartphone.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_01_Nivell2\Exercici1\Telefon.class 17//03//2024
+
+ ----------
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_01_Nivell2\Exercici1 17//03//2024
+ 
+ ----------
+ (F)E:\Sprints\target\classes\Sprint1\Tasca_S1_01_Nivell3\Basquet.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_01_Nivell3\F1.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_01_Nivell3\Futbol.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_01_Nivell3\Main.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_01_Nivell3\Menu.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_01_Nivell3\Motociclisme.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_01_Nivell3\Noticia.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_01_Nivell3\Redactor.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_01_Nivell3\Tenis.class 17//03//2024
+
+ ----------
+ (F)E:\Sprints\target\classes\Sprint1\Tasca_S1_02_Nivell1\Exercici1\Main.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_02_Nivell1\Exercici1\Producte.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_02_Nivell1\Exercici1\Venda.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_02_Nivell1\Exercici1\VendaBuidaException.class 17//03//2024
+
+ ----------
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_02_Nivell1\Exercici1 14//03//2024
+ 
+ ----------
+ (F)E:\Sprints\target\classes\Sprint1\Tasca_S1_02_Nivell2\Entrada.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_02_Nivell2\Main.class 17//03//2024
+
+ ----------
+ (F)E:\Sprints\target\classes\Sprint1\Tasca_S1_03_Nivell1\Exercici1\main.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_03_Nivell1\Exercici1\Month.class 17//03//2024
+
+ ----------
+ (F)E:\Sprints\target\classes\Sprint1\Tasca_S1_03_Nivell1\Exercici2\Main.class 17//03//2024
+
+ ----------
+ (F)E:\Sprints\target\classes\Sprint1\Tasca_S1_03_Nivell1\Exercici3\main.class 17//03//2024
+
+ ----------
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_03_Nivell1\Exercici1 17//03//2024
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_03_Nivell1\Exercici2 17//03//2024
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_03_Nivell1\Exercici3 17//03//2024
+ 
+ ----------
+ (F)E:\Sprints\target\classes\Sprint1\Tasca_S1_03_Nivell2\Exercici1\Main.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_03_Nivell2\Exercici1\Menu.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_03_Nivell2\Exercici1\Restaurant.class 17//03//2024
+
+ ----------
+ (F)E:\Sprints\target\classes\Sprint1\Tasca_S1_03_Nivell2\Exercici2\Main.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_03_Nivell2\Exercici2\Menu.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_03_Nivell2\Exercici2\Restaurant.class 17//03//2024
+
+ ----------
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_03_Nivell2\Exercici1 14//03//2024
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_03_Nivell2\Exercici2 14//03//2024
+ 
+ ----------
+ (F)E:\Sprints\target\classes\Sprint1\Tasca_S1_04\Nivell1\Exercici1\main.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_04\Nivell1\Exercici1\Mesos.class 17//03//2024
+
+ ----------
+ (F)E:\Sprints\target\classes\Sprint1\Tasca_S1_04\Nivell1\Exercici2\calculadorDNI.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_04\Nivell1\Exercici2\main.class 17//03//2024
+
+ ----------
+ (F)E:\Sprints\target\classes\Sprint1\Tasca_S1_04\Nivell1\Exercici3\ArrayExceptionGenerador.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_04\Nivell1\Exercici3\main.class 17//03//2024
+
+ ----------
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_04\Nivell1\Exercici1 17//03//2024
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_04\Nivell1\Exercici2 17//03//2024
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_04\Nivell1\Exercici3 17//03//2024
+ 
+ ----------
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_04\Nivell1 17//03//2024
+ 
+ ----------
+ (F)E:\Sprints\target\classes\Sprint1\Tasca_S1_04_Nivell2\Main.class 17//03//2024
+
+ ----------
+ (F)E:\Sprints\target\classes\Sprint1\Tasca_S1_05\Nivell1\Exercici1\Empleado.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_05\Nivell1\Exercici1\LectorFicheros.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_05\Nivell1\Exercici1\main.class 17//03//2024
+
+ ----------
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_05\Nivell1\Exercici1 17//03//2024
+ 
+ ----------
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_05\Nivell1 17//03//2024
+ 
+ ----------
+ (F)E:\Sprints\target\classes\Sprint1\Tasca_S1_06_Nivell1\Exercici1\main.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_06_Nivell1\Exercici1\NoGenericMethods.class 17//03//2024
+
+ ----------
+ (F)E:\Sprints\target\classes\Sprint1\Tasca_S1_06_Nivell1\Exercici2\GenericMethods.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_06_Nivell1\Exercici2\Main.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_06_Nivell1\Exercici2\Persona.class 17//03//2024
+
+ ----------
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_06_Nivell1\Exercici1 17//03//2024
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_06_Nivell1\Exercici2 17//03//2024
+ 
+ ----------
+ (F)E:\Sprints\target\classes\Sprint1\Tasca_S1_06_Nivell2\Exercici1\GenericMethods.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_06_Nivell2\Exercici1\Main.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_06_Nivell2\Exercici1\Persona.class 17//03//2024
+
+ ----------
+ (F)E:\Sprints\target\classes\Sprint1\Tasca_S1_06_Nivell2\Exercici2\GenericMethods.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_06_Nivell2\Exercici2\Main.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_06_Nivell2\Exercici2\Persona.class 17//03//2024
+
+ ----------
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_06_Nivell2\Exercici1 17//03//2024
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_06_Nivell2\Exercici2 17//03//2024
+ 
+ ----------
+ (F)E:\Sprints\target\classes\Sprint1\Tasca_S1_07_Nivell1\Exercici1\Main.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_07_Nivell1\Exercici1\SupressWarnings.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_07_Nivell1\Exercici1\Treballador.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_07_Nivell1\Exercici1\TreballadorOnline.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_07_Nivell1\Exercici1\TreballadorPresencial.class 17//03//2024
+
+ ----------
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_07_Nivell1\Exercici1 17//03//2024
+ 
+ ----------
+ (F)E:\Sprints\target\classes\Sprint1\Tasca_S1_07_Nivell2\Main.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_07_Nivell2\Movil.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_07_Nivell2\Serializer.class 17//03//2024
+
+ ----------
+ (F)E:\Sprints\target\classes\Sprint1\Tasca_S1_08_Nivell1\Exercici1\Main.class 17//03//2024
+
+ ----------
+ (F)E:\Sprints\target\classes\Sprint1\Tasca_S1_08_Nivell1\Exercici2\Main.class 17//03//2024
+
+ ----------
+ (F)E:\Sprints\target\classes\Sprint1\Tasca_S1_08_Nivell1\Exercici3\Main.class 17//03//2024
+
+ ----------
+ (F)E:\Sprints\target\classes\Sprint1\Tasca_S1_08_Nivell1\Exercici4\Main.class 17//03//2024
+
+ ----------
+ (F)E:\Sprints\target\classes\Sprint1\Tasca_S1_08_Nivell1\Exercici5\FunctionalInterface.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_08_Nivell1\Exercici5\Main.class 17//03//2024
+
+ ----------
+ (F)E:\Sprints\target\classes\Sprint1\Tasca_S1_08_Nivell1\Exercici6\Main.class 17//03//2024
+
+ ----------
+ (F)E:\Sprints\target\classes\Sprint1\Tasca_S1_08_Nivell1\Exercici7\Main.class 17//03//2024
+
+ ----------
+ (F)E:\Sprints\target\classes\Sprint1\Tasca_S1_08_Nivell1\Exercici8\FunctionalInterface.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_08_Nivell1\Exercici8\Main.class 17//03//2024
+
+ ----------
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_08_Nivell1\Exercici1 17//03//2024
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_08_Nivell1\Exercici2 17//03//2024
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_08_Nivell1\Exercici3 17//03//2024
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_08_Nivell1\Exercici4 17//03//2024
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_08_Nivell1\Exercici5 17//03//2024
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_08_Nivell1\Exercici6 17//03//2024
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_08_Nivell1\Exercici7 17//03//2024
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_08_Nivell1\Exercici8 17//03//2024
+ 
+ ----------
+ (F)E:\Sprints\target\classes\Sprint1\Tasca_S1_08_Nivell2\Exercici1\Main.class 17//03//2024
+
+ ----------
+ (F)E:\Sprints\target\classes\Sprint1\Tasca_S1_08_Nivell2\Exercici2\Main.class 17//03//2024
+
+ ----------
+ (F)E:\Sprints\target\classes\Sprint1\Tasca_S1_08_Nivell2\Exercici3\Main.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_08_Nivell2\Exercici3\Operaciones.class 17//03//2024
+
+ ----------
+ (F)E:\Sprints\target\classes\Sprint1\Tasca_S1_08_Nivell2\Exercici4\Main.class 17//03//2024
+
+ ----------
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_08_Nivell2\Exercici1 17//03//2024
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_08_Nivell2\Exercici2 17//03//2024
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_08_Nivell2\Exercici3 17//03//2024
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_08_Nivell2\Exercici4 17//03//2024
+ 
+ ----------
+ (F)E:\Sprints\target\classes\Sprint1\Tasca_S1_08_Nivell3\Alumne.class 17//03//2024
+(F)E:\Sprints\target\classes\Sprint1\Tasca_S1_08_Nivell3\Main.class 17//03//2024
+
+ ----------
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_01_Nivell1 14//03//2024
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_01_Nivell2 17//03//2024
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_01_Nivell3 17//03//2024
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_02_Nivell1 14//03//2024
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_02_Nivell2 17//03//2024
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_03_Nivell1 17//03//2024
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_03_Nivell2 14//03//2024
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_04 17//03//2024
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_04_Nivell2 14//03//2024
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_05 17//03//2024
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_06_Nivell1 17//03//2024
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_06_Nivell2 17//03//2024
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_07_Nivell1 17//03//2024
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_07_Nivell2 17//03//2024
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_08_Nivell1 17//03//2024
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_08_Nivell2 17//03//2024
+(D)E:\Sprints\target\classes\Sprint1\Tasca_S1_08_Nivell3 17//03//2024
+ 
+ ----------
+(D)E:\Sprints\target\classes\Katas 14//03//2024
+(D)E:\Sprints\target\classes\Sprint1 17//03//2024
+ 
+ ----------
+ 
+ ----------
+(D)E:\Sprints\target\generated-sources\annotations 20//02//2024
+ 
+ ----------
+ 
+ ----------
+(D)E:\Sprints\target\generated-test-sources\test-annotations 27//02//2024
+ 
+ ----------
+ (F)E:\Sprints\target\test-classes\Sprint1\Tasca_S1_04\Nivell1\Exercici1\MesosTest.class 13//03//2024
+
+ ----------
+ (F)E:\Sprints\target\test-classes\Sprint1\Tasca_S1_04\Nivell1\Exercici2\calculadorDNITest.class 13//03//2024
+
+ ----------
+ (F)E:\Sprints\target\test-classes\Sprint1\Tasca_S1_04\Nivell1\Exercici3\ArrayExceptionGeneradorTest.class 13//03//2024
+
+ ----------
+(D)E:\Sprints\target\test-classes\Sprint1\Tasca_S1_04\Nivell1\Exercici1 13//03//2024
+(D)E:\Sprints\target\test-classes\Sprint1\Tasca_S1_04\Nivell1\Exercici2 13//03//2024
+(D)E:\Sprints\target\test-classes\Sprint1\Tasca_S1_04\Nivell1\Exercici3 13//03//2024
+ 
+ ----------
+ (F)E:\Sprints\target\test-classes\Sprint1\Tasca_S1_04\Nivell2\MatcherPersonalitzat.class 13//03//2024
+(F)E:\Sprints\target\test-classes\Sprint1\Tasca_S1_04\Nivell2\Test2.class 13//03//2024
+
+ ----------
+(D)E:\Sprints\target\test-classes\Sprint1\Tasca_S1_04\Nivell1 13//03//2024
+(D)E:\Sprints\target\test-classes\Sprint1\Tasca_S1_04\Nivell2 13//03//2024
+ 
+ ----------
+(D)E:\Sprints\target\test-classes\Sprint1\Tasca_S1_04 13//03//2024
+ 
+ ----------
+(D)E:\Sprints\target\test-classes\Sprint1 13//03//2024
+ 
+ ----------
+(D)E:\Sprints\target\classes 14//03//2024
+(D)E:\Sprints\target\generated-sources 20//02//2024
+(D)E:\Sprints\target\generated-test-sources 27//02//2024
+(D)E:\Sprints\target\test-classes 13//03//2024
+ 
+ ----------
+(D)E:\Sprints\.git 13//03//2024
+(D)E:\Sprints\.idea 17//03//2024
+(D)E:\Sprints\Output 14//03//2024
+(D)E:\Sprints\src 14//03//2024
+(D)E:\Sprints\target 27//02//2024
+ (F)E:\Sprints\.gitattributes 12//03//2024
+(F)E:\Sprints\.gitignore 19//02//2024
+(F)E:\Sprints\ArbolDirectorio.txt 17//03//2024
+(F)E:\Sprints\countries.txt 25//02//2024
+(F)E:\Sprints\empleado.ser 28//02//2024
+(F)E:\Sprints\filename.txt 14//03//2024
+(F)E:\Sprints\pom.xml 13//03//2024
+(F)E:\Sprints\prueba1.txt 28//02//2024
+(F)E:\Sprints\Resultado.txt 28//02//2024
+
  

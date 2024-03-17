@@ -37,8 +37,7 @@ public class Restaurant {
     @Override
     public boolean equals(Object obj) {
         if (this == obj) return true;
-        if (!(obj instanceof Restaurant)) return false;
-        Restaurant nouRestaurant = (Restaurant) obj;
+        if (!(obj instanceof Restaurant nouRestaurant)) return false;
         return this.puntuacio == nouRestaurant.getPuntuacio() && this.nom.equals(nouRestaurant.getNom());
     }
 
@@ -46,4 +45,5 @@ public class Restaurant {
     public int hashCode() {
         return Objects.hash(nom, puntuacio);
     }
+
 }

@@ -1,0 +1,6 @@
+----------
+ (F)C:\Users\raize\Desktop\New folder (2)\Empleado.java 28//02//2024
+(F)C:\Users\raize\Desktop\New folder (2)\LectorFicheros.java 17//03//2024
+(F)C:\Users\raize\Desktop\New folder (2)\main.java 17//03//2024
+
+ 
