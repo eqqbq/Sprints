@@ -12,6 +12,7 @@ public class Main {
         llistaStrings.add("Días");
         llistaStrings.add("Buenos");
         llistaStrings.add("Febrer");
+        llistaStrings.add("Ordenar");
 
         contieneLetraO(llistaStrings);
     }
@@ -19,7 +20,7 @@ public class Main {
     public static void contieneLetraO(ArrayList<String> llistaStrings){
 
         llistaStrings.stream()
-                .filter (x -> x.contains("o"))
+                .filter (x -> x.contains("o") || x.contains("O"))
                 .forEach(x -> System.out.print(x + " " + "\n"));
 
     }

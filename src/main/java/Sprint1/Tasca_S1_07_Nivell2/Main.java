@@ -35,7 +35,6 @@ public class Main {
             System.out.println("Successfully wrote to the file.");
         } catch (IOException e) {
             System.out.println("An error occurred.");
-            e.printStackTrace();
         }
     }
 

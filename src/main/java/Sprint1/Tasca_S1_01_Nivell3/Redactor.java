@@ -4,9 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Redactor {
-    String nom;
-    final String dni;
-    int sou;
+    protected String nom;
+    protected final String dni;
+    protected int sou;
 
     List<Noticia> llistaNoticias = new ArrayList<>();
 

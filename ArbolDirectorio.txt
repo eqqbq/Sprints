@@ -1965,4 +1965,13 @@
 (F)E:\Sprints\prueba1.txt 28//02//2024
 (F)E:\Sprints\Resultado.txt 28//02//2024
 
+ ----------
+ (F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_05\Nivell1\Exercici1\Empleado.class 20//03//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_05\Nivell1\Exercici1\Empleado.java 28//02//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_05\Nivell1\Exercici1\LectorFicheros.class 20//03//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_05\Nivell1\Exercici1\LectorFicheros.java 20//03//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_05\Nivell1\Exercici1\Main.class 20//03//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_05\Nivell1\Exercici1\Main.java 20//03//2024
+(F)D:\Sprints\src\main\java\Sprint1\Tasca_S1_05\Nivell1\Exercici1\readme.txt 20//03//2024
+
  

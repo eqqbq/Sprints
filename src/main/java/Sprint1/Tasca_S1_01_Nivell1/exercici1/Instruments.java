@@ -28,9 +28,12 @@ public abstract class Instruments {
         this.preu = preu;
     }
 
+    @Override
+    public String toString() {
+        return "Nom : " + nom +
+                " Preu : " + preu;
+    }
+
     public abstract String tocar();
 
-    public static void ejemploStatic(){
-        System.out.println("Ejemplo método stático.");
-    }
 }

@@ -1,9 +1,9 @@
 package Sprint1.Tasca_S1_07_Nivell1.Exercici1;
 
-public class Treballador {
-    private String nom;
-    private String cognom;
-    private double preuHora;
+public abstract class Treballador {
+    protected String nom;
+    protected String cognom;
+    protected double preuHora;
 
     public Treballador(String nom, String cognom, double preuHora) {
         this.nom = nom;
@@ -35,9 +35,7 @@ public class Treballador {
         this.preuHora = preuHora;
     }
 
-    public void calcularSueldo(double horasTreballades){
-        System.out.println("El sou d'un treballador: " + preuHora * horasTreballades + " euros.");
-    }
+    public abstract void calcularSueldo(double horasTreballades);
 
     @Override
     public String toString() {
@@ -48,7 +46,6 @@ public class Treballador {
     }
 
     @Deprecated
-    public void ejemploDeprecated(){
-        System.out.println("Ejemplo deprecated");
-    }
+    public abstract void ejemploDeprecated();
+
 }

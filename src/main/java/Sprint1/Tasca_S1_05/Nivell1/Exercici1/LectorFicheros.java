@@ -3,7 +3,6 @@ package Sprint1.Tasca_S1_05.Nivell1.Exercici1;
 import java.io.*;
 import java.text.SimpleDateFormat;
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.Date;
 import java.util.Scanner;
 
@@ -35,13 +34,10 @@ public class LectorFicheros {
                 if (f.isDirectory()) {
                     listaDirectorio = listaDirectorio + "(D)" + (f) + " " + imprimirFecha(f) + "\n";
 
-                    //System.out.println("--");
-                    //System.out.println("(D)" + (f));
-
                     leerFicheros(f);
                 } else if (f.isFile()) {
                     listaArchivos = listaArchivos + "(F)" + f + " " + imprimirFecha(f) + "\n";
-                    //System.out.println( "(F)" + f + " " + imprimirFecha(f));
+
                 }
             }
         }
@@ -76,7 +72,7 @@ public class LectorFicheros {
             arbolDirectorio.write(linea + "\n ");
 
         } catch (IOException e) {
-            e.printStackTrace();
+            System.out.println("Se ha encontrado un error.");
         }
     }
 
@@ -93,8 +89,6 @@ public class LectorFicheros {
                 System.out.print((char)i);
         } catch (IOException e) {
             System.out.println("Se ha encontrado un error.");
-            e.printStackTrace();
-
         }
     }
 

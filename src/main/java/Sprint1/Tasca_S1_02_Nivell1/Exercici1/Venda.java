@@ -14,7 +14,7 @@ public class Venda {
     public String getColleccioProductes(ArrayList<Producte> colleccioProductes) {
 
         String textoAuxiliar = "";
-        for ( Producte producte : colleccioProductes){
+        for (Producte producte : colleccioProductes) {
             textoAuxiliar += producte + " ";
         }
         return textoAuxiliar;
@@ -28,20 +28,15 @@ public class Venda {
         this.preuVenta = preuVenta;
     }
 
-    public void calcularTotal() /* throws VendaBuidaException*/ {
+    public void calcularTotal() throws VendaBuidaException {
         int j = 0;
-        try {
-            if (this.colleccioProductes.size() <= 0) {
-                throw new VendaBuidaException("");
-            }
-            for (Producte producte : this.colleccioProductes){
-                j += producte.getPreu();
-            }
-            setPreuVenta(j);
+        if (this.colleccioProductes.size() <= 0) {
+            throw new VendaBuidaException();
         }
-        catch( VendaBuidaException e){
-            System.out.println(e.getMessage());
+        for (Producte producte : this.colleccioProductes) {
+            j += producte.getPreu();
         }
-
+        setPreuVenta(j);
     }
 }
+

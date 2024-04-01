@@ -23,12 +23,20 @@ public class main {
         Month agost = new Month("Agost");
         calendari.add(7, agost);
 
-        HashSet<Month> hashSetCalendari = new HashSet<>(calendari);
+        System.out.println("La Arraylist manté el ordre desprès d'afegir 'Agost' a la posició corresponent:");
+        calendari.forEach(System.out::println);
 
+        System.out.println();
+
+        HashSet<Month> hashSetCalendari = new HashSet<>(calendari);
         hashSetCalendari.add(agost);
+
+        System.out.println("Mostra de que HashSet no permet duplicats: (Iterat amb un for each.) ");
 
         for (Month month : hashSetCalendari) System.out.println(month);
         System.out.println();
+
+        System.out.println("Mostra de que HashSet no permet duplicats: (Iterat amb un iterador.) ");
         Iterator<Month> it = hashSetCalendari.iterator();
 
         while( it.hasNext()){

@@ -6,13 +6,12 @@ public class TreballadorOnline extends Treballador{
         super(nom, cognom, preuHora);
     }
 
-    @Override
-    public void calcularSueldo(double horasTreballades){
+    public void calcularSueldo(double horasTreballades) {
         System.out.println("El sou d'un treballador online es de: "
-                + (getPreuHora() * horasTreballades + TARIFA_PLANA_INTERNET) + " euros");
+                + (this.preuHora * horasTreballades + TARIFA_PLANA_INTERNET) + " euros");
     }
 
-    @Deprecated
+    @Override @Deprecated
     public void ejemploDeprecated(){
         System.out.println("Ejemplo deprecated");
     }

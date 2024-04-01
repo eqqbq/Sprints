@@ -31,7 +31,7 @@ public class Coche {
         return "El vehícle està frenant.";
     }
     public String accelerar(){
-        return "El vehicle està accelerant.";
+        return "El vehícle està accelerant.";
     }
 
     public String toString(){

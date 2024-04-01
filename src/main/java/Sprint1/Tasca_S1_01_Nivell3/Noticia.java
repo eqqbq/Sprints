@@ -2,11 +2,11 @@ package Sprint1.Tasca_S1_01_Nivell3;
 
 public abstract class Noticia {
 
-    private Redactor redactor;
-    private String text = "";
-    private String titular;
-    private int puntuacio;
-    private int preu;
+    protected Redactor redactor;
+    protected String text = "";
+    protected String titular;
+    protected int puntuacio;
+    protected int preu;
 
     public Noticia(String titular, Redactor redactor) {
         this.titular = titular;

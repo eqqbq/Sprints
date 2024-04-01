@@ -22,7 +22,7 @@ public class Main {
     public static void filtros(ArrayList<String> llistaStrings){
 
         llistaStrings.stream()
-                .filter (x -> x.contains("o"))
+                .filter (x -> x.contains("o") || x.contains("O"))
                 .filter (x -> x.length() > 5)
                 .forEach(x -> System.out.print(x + " " + "\n"));
     }

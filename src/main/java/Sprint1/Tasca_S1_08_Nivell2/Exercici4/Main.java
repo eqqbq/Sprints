@@ -54,7 +54,10 @@ public class Main {
 
         System.out.println("Lista remplazando las 'A' por '4': " + "\n");
 
-        listaRandom.forEach(x -> System.out.println(x.replace('a', '4')));
+        listaRandom.stream()
+                .map(x -> x.toString().replace('a', '4'))
+                .map(x -> x.toString().replace('A','4'))
+                .forEach(System.out::println);
         System.out.println("---------------------------");
     }
 

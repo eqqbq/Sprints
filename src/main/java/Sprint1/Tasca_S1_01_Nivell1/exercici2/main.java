@@ -7,6 +7,6 @@ public class main {
 
         System.out.println(coche1.toString());
         System.out.println(coche1.accelerar());
-        System.out.println(coche1.frenar());
+        System.out.println(Coche.frenar());
     }
 }
