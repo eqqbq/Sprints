@@ -64,4 +64,4 @@ db.getCollection('Restaurant').find({ 'grades.score' : { $mod: [7, 0] } }, { res
 //Escriu una consulta per trobar el name de restaurant, borough, longitud i altitud i cuisine per a aquells restaurants que contenen 'mon' com tres lletres en algun lloc del seu nom.
 db.getCollection('Restaurant').find({name: /mon/i}, {name: 1, borough: 1, 'address.coord': 1, cuisine: 1, _id: 0})
 //Escriu una consulta per trobar el name de restaurant, borough, longitud i latitud i cuisine per a aquells restaurants que contenen 'Mad' com primeres tres lletres del seu nom.
-db.getCollection.find({name: /^Mad/i}, {name: 1, borough: 1, 'address.coord': 1, cuisine: 1, _id: 0})
+db.getCollection('Restaurant').find({name: /^Mad/i}, {name: 1, borough: 1, 'address.coord': 1, cuisine: 1, _id: 0})
