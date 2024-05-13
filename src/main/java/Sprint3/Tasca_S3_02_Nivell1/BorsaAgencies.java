@@ -1,9 +1,5 @@
 package Sprint3.Tasca_S3_02_Nivell1;
 
-
-import java.util.ArrayList;
-import java.util.List;
-
 public class BorsaAgencies implements Observer {
 
     private String name;
